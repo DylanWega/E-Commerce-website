@@ -7,3 +7,9 @@ The website possesses a frontend interface for user interaction and an admin sid
 use cases such as adding, updating, deleting, and searching.
 
 ---
+
+<p align="center">
+  <img src="loginPage.png" alt="Architecture Diagram" width="800">
+</p>
+
+
